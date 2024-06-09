@@ -73,8 +73,9 @@ contract EtherStore {
         return address(this).balance;
     }
 }
+```
 
-
+```solidity
 contract Attack {
 
     /**
